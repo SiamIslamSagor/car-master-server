@@ -1,0 +1,34 @@
+[
+  {
+    "img": "https://i.ibb.co/4mQy0h5/mercedes-benz-s-class-wallpaper-1920x1080-p1.jpg",
+    "name": "Mercedes-Benz S-Class",
+    "brand_name": "Marcedes-Benz",
+    "type": "car",
+    "rating": "4.9 star",
+    "price": " $109,800 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/MPjRnMC/2018-Mercedes-Maybach-S650-001-2000-scaled-p2.jpg",
+    "name": "Mercedes-Benz Maybach S650",
+    "brand_name": "Marcedes-Benz",
+    "type": "car",
+    "rating": "4.4 star",
+    "price": " $185,950 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/HV03Yn3/marsidiz-product-p3.jpg",
+    "name": "Mercedes-Benz AMG GT",
+    "brand_name": "Marcedes-Benz",
+    "type": "car",
+    "rating": "4.9 star",
+    "price": "$115,900 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/0Cd3L6z/carpixel-net-2020-mercedes-benz-e-class-98369-hd-p3.jpg",
+    "name": "Mercedes-Benz E-Class",
+    "brand_name": "Marcedes-Benz",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": " $54,700 (MSRP)"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "img": "https://i.ibb.co/Tr5r82m/bmw-7-series-1920-x-1080-wallpaper-a3n2nxndyy1rdt7n-p1.jpg",
+    "name": "BMW 7 Series",
+    "brand_name": "BMW",
+    "type": "car",
+    "rating": "4.7 star",
+    "price": " $86,800 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/n8XMWcT/bmw-m8-competition-coupe-2019-5k-p2.jpg",
+    "name": "BMW M8",
+    "brand_name": "BMW",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": " $131,995 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/XS6CvZt/bmw-x7-xdrive40i-2018-4k-HD-p3.jpg",
+    "name": "BMW X7",
+    "brand_name": "BMW",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": "$74,900 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/ft2ZNYJ/bmw-m8-competition-coupe-2019-5k-p4.jpg",
+    "name": "BMW i8",
+    "brand_name": "BMW",
+    "type": "car",
+    "rating": "4.9 star",
+    "price": " $147,500 (MSRP)"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "img": "https://i.ibb.co/GvkLtb1/tesla-s-p1.jpg",
+    "name": "Tesla Model S",
+    "brand_name": "Tesla",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": " $79,990 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/6rdPJsh/model-x-tesla-motors-HD-p2.jpg",
+    "name": "Tesla Model X",
+    "brand_name": "Tesla",
+    "type": "car",
+    "rating": "4.6 star",
+    "price": " $89,990 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/PgkgncY/tesla-3-p3.jpg",
+    "name": "Tesla Model 3",
+    "brand_name": "Tesla",
+    "type": "car",
+    "rating": "4.9 star",
+    "price": "$38,990 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/Fzffx6H/model-y-tesla-motors-HD-p4.jpg",
+    "name": "Tesla Model Y",
+    "brand_name": "Tesla",
+    "type": "car",
+    "rating": "4.5 star",
+    "price": " $52,990 (MSRP)"
+  }
+]

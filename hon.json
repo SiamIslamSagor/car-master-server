@@ -1,0 +1,34 @@
+[
+  {
+    "img": "https://i.ibb.co/Lrq9C9V/carpixel-net-2018-honda-accord-touring-72774-hd-p1.jpg",
+    "name": "Honda Accord Touring",
+    "brand_name": "Honda",
+    "type": "car",
+    "rating": "4.5 star",
+    "price": " $36,405 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/SPTWQ24/2022-Honda-Civic-Sport-front-p2.jpg",
+    "name": "Honda Civic Touring",
+    "brand_name": "Honda",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": " $28,300 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/gZNqLST/honda-cr-v-ehev-black-edition-2020-5k-HD-p3.jpg",
+    "name": "Honda CR-V Touring",
+    "brand_name": "Honda",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": "$32,050 (MSRP)"
+  },
+  {
+    "img": "https://i.ibb.co/PgYNZdZ/Honda-Insight-2019-wallpaper-p4.jpg",
+    "name": "Honda Insight Touring",
+    "brand_name": "Honda",
+    "type": "car",
+    "rating": "4.7 star",
+    "price": " $29,390 (MSRP)"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "653021bf911c0bbf13452c31",
+    "slide_img_one": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
+    "slide_img_tow": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
+    "slide_img_three": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
+    "advertisement_text_one": "Own a Lamborghini Today! Unleash the beast within. Your Lamborghini is not just a car; it's a statement of power, luxury, and exclusivity. Don't miss your chance to own the epitome of automotive excellence.",
+    "advertisement_text_tow": "Where Dreams Become Reality Your dream car is a phone call away. Experience the thrill of owning a Lamborghini - a symbol of prestige and unparalleled performance. Make your dream a reality today.",
+    "advertisement_text_three": "Discover the Art of Speed with Lamborghini Are you ready for the ride of a lifetime? Get behind the wheel of a Lamborghini and experience the rush of power, the elegance of design, and the envy of all. Your Lamborghini awaits you.",
+    "brands_description": "Toyota: Innovating Excellence",
+    "products": [
+      {
+        "img": "https://i.ibb.co/yyZdTDK/lamborghini-aventador-s-yellow-p1.jpg",
+        "name": "Lamborghini Aventador",
+        "brand_name": "Lamborghini",
+        "type": "car",
+        "rating": "4.5 star",
+        "price": "$393,695 (MSRP)"
+      },
+      {
+        "img": "https://i.ibb.co/L0bHS8K/black-lamborghini-huracan-p2.jpg",
+        "name": "Lamborghini Huracán",
+        "brand_name": "Lamborghini",
+        "type": "car",
+        "rating": "4.8 star",
+        "price": "$207,900 (MSRP)"
+      },
+      {
+        "img": "https://i.ibb.co/G71xW2P/lamborghini-uras-yellow-p3.jpg",
+        "name": "Lamborghini Urus",
+        "brand_name": "Lamborghini",
+        "type": "car",
+        "rating": "4.8 star",
+        "price": " $218,009 (MSRP)"
+      },
+      {
+        "img": "https://i.ibb.co/5RFY5P0/lamborghini-sian-4k-HD-p4.jpg",
+        "name": "Lamborghini Sian",
+        "brand_name": "Lamborghini",
+        "type": "car",
+        "rating": "4.7 star",
+        "price": "$299,000 (MSRP)"
+      }
+    ]
+  }
+]

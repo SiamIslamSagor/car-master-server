@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "653021bf911c0bbf13452c31",
+    "slide_img_one": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
+    "slide_img_tow": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
+    "slide_img_three": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
+    "advertisement_text_one": "Explore a world where innovation meets the road, and where every journey is an adventure in cutting-edge technology and unrivaled reliability. Discover the Toyota experience today.",
+    "advertisement_text_tow": " Toyota is more than a brand; it's a promise of excellence. With a legacy of pioneering innovation, we're driving into the future to create a world that moves with confidence and sustainability.",
+    "advertisement_text_three": "Your drive should be more than just a commute; it should be an elevation of your life. Toyota, where comfort, style, and performance converge to make every journey extraordinary.",
+    "brands_description": "Toyota: Innovating Excellence",
+    "products": [
+      {
+        "img": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
+        "name": "Toyota Land Cruiser",
+        "brand_name": "Toyota",
+        "type": "car",
+        "rating": "4.7 star",
+        "price": "$85,000"
+      },
+      {
+        "img": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
+        "name": "Toyota Avalon",
+        "brand_name": "Toyota",
+        "type": "car",
+        "rating": "4.6 star",
+        "price": "$34,500"
+      },
+      {
+        "img": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
+        "name": "Toyota Mirai",
+        "brand_name": "Toyota",
+        "type": "car",
+        "rating": "4.8 star",
+        "price": "$42,900"
+      },
+      {
+        "img": "https://i.ibb.co/V3wbyzp/toyota-product-4.jpg",
+        "name": "Toyota Venza",
+        "brand_name": "Toyota",
+        "type": "car",
+        "rating": "4.5 star",
+        "price": "$28,000"
+      }
+    ]
+  }
+]
