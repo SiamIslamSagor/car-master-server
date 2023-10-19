@@ -5,7 +5,13 @@
     "brand_name": "Marcedes-Benz",
     "type": "car",
     "rating": "4.9 star",
-    "price": " $109,800 (MSRP)"
+    "price": " $109,800 (MSRP)",
+
+    "description": "The Mercedes-Benz S-Class is the pinnacle of luxury sedans, known for its cutting-edge technology, opulent interior, and exceptional performance. It sets the standard for automotive excellence.",
+    "design_and_styling_features": "The S-Class features a sophisticated and elegant design with a bold front grille, LED headlights, and a spacious, well-appointed interior. Available in various body styles.",
+    "engine_options_range": "A wide range of engine options, including powerful V8 and V12 engines, and hybrid powertrains. The performance is both exhilarating and efficient.",
+    "technology_safety_features": "Equipped with advanced driver-assistance systems, including adaptive cruise control, lane-keeping assist, and automated parking. It also offers state-of-the-art infotainment and connectivity features.",
+    "luxury_and_comfort_features": "The interior boasts the finest materials, including leather, wood, and metal trim. It offers exquisite comfort features like multi-way power-adjustable seats, heated and ventilated seats, and advanced entertainment and sound systems."
   },
   {
     "img": "https://i.ibb.co/MPjRnMC/2018-Mercedes-Maybach-S650-001-2000-scaled-p2.jpg",
@@ -13,7 +19,13 @@
     "brand_name": "Marcedes-Benz",
     "type": "car",
     "rating": "4.4 star",
-    "price": " $185,950 (MSRP)"
+    "price": " $185,950 (MSRP)",
+
+    "description": "The Mercedes-Benz Maybach S650 is the ultimate expression of automotive luxury, featuring a handcrafted interior, a powerful V12 engine, and cutting-edge technology. It's designed for those who demand the finest in every aspect of their vehicle.",
+    "design_and_styling_features": "The Maybach S650 showcases an exclusive and lavish design with distinctive styling elements, including a Maybach-specific front grille and premium paint options. It's available in both sedan and convertible variants.",
+    "engine_options_range": "Powered by a handcrafted 6.0-liter V12 engine, delivering extraordinary performance. This model is known for its exceptional refinement and smooth power delivery.",
+    "technology_safety_features": "Offers advanced safety features, such as adaptive cruise control, lane-keeping assist, and autonomous driving capabilities. The infotainment system is state-of-the-art, providing top-tier connectivity and entertainment options.",
+    "luxury_and_comfort_features": "The Maybach S650 is synonymous with opulence, featuring a handcrafted cabin with the finest materials. It includes executive rear seating, massaging seats, and the latest in-cabin technology for a truly luxurious experience."
   },
   {
     "img": "https://i.ibb.co/HV03Yn3/marsidiz-product-p3.jpg",
@@ -21,7 +33,13 @@
     "brand_name": "Marcedes-Benz",
     "type": "car",
     "rating": "4.9 star",
-    "price": "$115,900 (MSRP)"
+    "price": "$115,900 (MSRP)",
+
+    "description": "The Mercedes-Benz AMG GT is a high-performance sports car that combines thrilling driving dynamics with a striking design. It's known for its sporty demeanor and powerful engines.",
+    "design_and_styling_features": "The AMG GT boasts a bold and athletic design with a long hood, distinctive grille, and a low-slung profile. It's available in various body styles, including coupes and roadsters.",
+    "engine_options_range": "Powered by a range of potent AMG engines, including V8 and V12 variants. These engines offer exceptional power and exhilarating acceleration.",
+    "technology_safety_features": "Equipped with advanced performance and handling technology, including adaptive suspension, sport-tuned steering, and advanced driver-assistance features. It's designed for those who enjoy a spirited driving experience.",
+    "luxury_and_comfort_features": "While the focus is on performance, the AMG GT still offers a comfortable interior with high-quality materials and the latest infotainment and connectivity features."
   },
   {
     "img": "https://i.ibb.co/0Cd3L6z/carpixel-net-2020-mercedes-benz-e-class-98369-hd-p3.jpg",
@@ -29,6 +47,12 @@
     "brand_name": "Marcedes-Benz",
     "type": "car",
     "rating": "4.8 star",
-    "price": " $54,700 (MSRP)"
+    "price": " $54,700 (MSRP)",
+
+    "description": "The Mercedes-Benz E-Class is a midsize luxury sedan that strikes a balance between style, comfort, and performance. It's known for its versatility and advanced technology, making it a popular choice in the luxury sedan segment.",
+    "design_and_styling_features": "The E-Class features a modern and sophisticated design with a distinctive front grille, LED lighting, and a spacious cabin. It's available in sedan, coupe, convertible, and wagon body styles.",
+    "engine_options_range": "Offers a range of engine options, including efficient four-cylinder engines, powerful V6 engines, and hybrid powertrains. It provides a comfortable and refined driving experience.",
+    "technology_safety_features": "Equipped with the latest Mercedes-Benz technology, including advanced driver-assistance features, a user-friendly infotainment system, and available semi-autonomous driving capabilities.",
+    "luxury_and_comfort_features": "The E-Class offers a comfortable and well-appointed interior with premium materials and advanced comfort features. It's designed for those seeking a blend of luxury and practicality."
   }
 ]

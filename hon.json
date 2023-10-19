@@ -5,7 +5,13 @@
     "brand_name": "Honda",
     "type": "car",
     "rating": "4.5 star",
-    "price": " $36,405 (MSRP)"
+    "price": " $36,405 (MSRP)",
+
+    "description": "The Honda Accord Touring is a top-of-the-line midsize sedan that combines elegant styling, advanced technology, and a comfortable interior. It's known for its excellent fuel efficiency and a smooth, comfortable ride.",
+    "design_and_styling_features": "The Accord Touring features a modern and sleek design with LED headlights, a stylish grille, and alloy wheels. It offers a spacious and well-appointed interior with premium materials and comfortable seating.",
+    "engine_options_range": "The Accord Touring typically comes with a choice of efficient and responsive engines, including turbocharged options. It excels in fuel efficiency and offers a balanced blend of power and economy.",
+    "technology_safety_features": "Equipped with Honda's advanced safety suite, the Accord Touring includes features like adaptive cruise control, lane-keeping assist, and collision mitigation braking. It also offers a user-friendly infotainment system with a touchscreen interface.",
+    "luxury_and_comfort_features": "The Accord Touring provides luxurious features such as leather-trimmed seats, heated and ventilated front seats, a premium audio system, and a spacious and quiet cabin."
   },
   {
     "img": "https://i.ibb.co/SPTWQ24/2022-Honda-Civic-Sport-front-p2.jpg",
@@ -13,7 +19,13 @@
     "brand_name": "Honda",
     "type": "car",
     "rating": "4.8 star",
-    "price": " $28,300 (MSRP)"
+    "price": " $28,300 (MSRP)",
+
+    "description": "The Honda Civic Touring is a compact car that offers a blend of style, technology, and fuel efficiency. It's known for its reliability and comfortable ride, making it a popular choice among compact car enthusiasts.",
+    "design_and_styling_features": "The Civic Touring boasts a modern and sporty design with distinctive LED headlights, alloy wheels, and a bold front grille. Inside, it offers a well-designed cabin with comfortable seats and a driver-centric layout.",
+    "engine_options_range": "The Civic Touring typically features a fuel-efficient yet peppy engine. It provides a balance of performance and excellent fuel economy, making it an ideal choice for daily commuting.",
+    "technology_safety_features": "With Honda Sensing, the Civic Touring includes advanced safety features such as adaptive cruise control, lane-keeping assist, and automatic emergency braking. It also features a user-friendly infotainment system with touchscreen controls.",
+    "luxury_and_comfort_features": "The Civic Touring offers a range of comfort features, including leather-trimmed seats, heated front seats, dual-zone automatic climate control, and a premium audio system."
   },
   {
     "img": "https://i.ibb.co/gZNqLST/honda-cr-v-ehev-black-edition-2020-5k-HD-p3.jpg",
@@ -21,7 +33,13 @@
     "brand_name": "Honda",
     "type": "car",
     "rating": "4.8 star",
-    "price": "$32,050 (MSRP)"
+    "price": "$32,050 (MSRP)",
+
+    "description": "The Honda CR-V Touring is a compact SUV that combines versatility, comfort, and advanced features. It's known for its spacious interior, practicality, and strong resale value, making it a popular choice in the compact SUV segment.",
+    "design_and_styling_features": "The CR-V Touring features a modern and aerodynamic design with LED headlights, alloy wheels, and a distinctive front grille. It provides a roomy and well-designed interior with comfortable seating and ample cargo space.",
+    "engine_options_range": "The CR-V Touring typically comes with a responsive and efficient engine. It's designed for daily commuting and long road trips, offering a balance of power and fuel efficiency.",
+    "technology_safety_features": "Equipped with Honda Sensing, the CR-V Touring includes advanced safety features such as adaptive cruise control, lane-keeping assist, and automatic emergency braking. It also offers a user-friendly infotainment system with a touchscreen interface.",
+    "luxury_and_comfort_features": "The CR-V Touring offers comfort features like leather-trimmed seats, a power tailgate, heated front seats, dual-zone automatic climate control, and advanced connectivity options."
   },
   {
     "img": "https://i.ibb.co/PgYNZdZ/Honda-Insight-2019-wallpaper-p4.jpg",
@@ -29,6 +47,12 @@
     "brand_name": "Honda",
     "type": "car",
     "rating": "4.7 star",
-    "price": " $29,390 (MSRP)"
+    "price": " $29,390 (MSRP)",
+
+    "description": "The Honda Insight Touring is a hybrid sedan that combines fuel efficiency with advanced technology. It's known for its comfortable ride, upscale interior, and excellent gas mileage, making it a practical and eco-friendly choice.",
+    "design_and_styling_features": "The Insight Touring features a sleek and aerodynamic design with LED headlights, alloy wheels, and a refined front grille. Inside, it offers a well-crafted and comfortable cabin with modern features.",
+    "engine_options_range": "The Insight Touring combines a gasoline engine with an electric motor for impressive fuel economy. It excels in city driving and offers a smooth and quiet driving experience.",
+    "technology_safety_features": "With Honda Sensing, the Insight Touring includes advanced safety features like adaptive cruise control, lane-keeping assist, and collision mitigation braking. It also features a user-friendly infotainment system with a touchscreen interface.",
+    "luxury_and_comfort_features": "The Insight Touring provides comfort features such as leather-trimmed seats, heated front seats, a premium audio system, and a spacious and quiet interior."
   }
 ]

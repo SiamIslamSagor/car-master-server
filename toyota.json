@@ -1,46 +1,58 @@
 [
   {
-    "_id": "653021bf911c0bbf13452c31",
-    "slide_img_one": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
-    "slide_img_tow": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
-    "slide_img_three": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
-    "advertisement_text_one": "Explore a world where innovation meets the road, and where every journey is an adventure in cutting-edge technology and unrivaled reliability. Discover the Toyota experience today.",
-    "advertisement_text_tow": " Toyota is more than a brand; it's a promise of excellence. With a legacy of pioneering innovation, we're driving into the future to create a world that moves with confidence and sustainability.",
-    "advertisement_text_three": "Your drive should be more than just a commute; it should be an elevation of your life. Toyota, where comfort, style, and performance converge to make every journey extraordinary.",
-    "brands_description": "Toyota: Innovating Excellence",
-    "products": [
-      {
-        "img": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
-        "name": "Toyota Land Cruiser",
-        "brand_name": "Toyota",
-        "type": "car",
-        "rating": "4.7 star",
-        "price": "$85,000"
-      },
-      {
-        "img": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
-        "name": "Toyota Avalon",
-        "brand_name": "Toyota",
-        "type": "car",
-        "rating": "4.6 star",
-        "price": "$34,500"
-      },
-      {
-        "img": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
-        "name": "Toyota Mirai",
-        "brand_name": "Toyota",
-        "type": "car",
-        "rating": "4.8 star",
-        "price": "$42,900"
-      },
-      {
-        "img": "https://i.ibb.co/V3wbyzp/toyota-product-4.jpg",
-        "name": "Toyota Venza",
-        "brand_name": "Toyota",
-        "type": "car",
-        "rating": "4.5 star",
-        "price": "$28,000"
-      }
-    ]
+    "img": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
+    "name": "Toyota Land Cruiser",
+    "brand_name": "Toyota",
+    "type": "car",
+    "rating": "4.7 star",
+    "price": "$85,000",
+
+    "description": "The Toyota Land Cruiser is a rugged and capable SUV known for its off-road prowess and luxurious features.",
+    "design_and_styling_features": "Iconic design with a strong and robust appearance. Spacious interior with high-quality materials.",
+    "engine_options_range": "Powerful V8 engine options for excellent off-road performance.",
+    "technology_safety_features": "Advanced safety features including adaptive cruise control, lane departure warning, and more.",
+    "luxury_and_comfort_features": "Comfortable and well-appointed interior with features like leather seats, premium sound systems, and more."
+  },
+  {
+    "img": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
+    "name": "Toyota Avalon",
+    "brand_name": "Toyota",
+    "type": "car",
+    "rating": "4.6 star",
+    "price": "$34,500",
+
+    "description": "The Toyota Avalon is a full-size sedan known for its comfort, spacious interior, and smooth ride.",
+    "design_and_styling_features": "Elegant and modern design with a focus on aerodynamics and style.",
+    "engine_options_range": "Efficient V6 engine options for a balance of power and fuel economy.",
+    "technology_safety_features": "Comprehensive safety features including adaptive cruise control, automatic emergency braking, and more.",
+    "luxury_and_comfort_features": "Spacious and comfortable interior with features like leather upholstery, premium infotainment systems, and more."
+  },
+  {
+    "img": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
+    "name": "Toyota Mirai",
+    "brand_name": "Toyota",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": "$42,900",
+
+    "description": "The Toyota Mirai is a hydrogen fuel cell electric vehicle (FCEV) known for its eco-friendliness and advanced technology.",
+    "design_and_styling_features": "Futuristic and aerodynamic design with a focus on hydrogen fuel cell technology.",
+    "engine_options_range": "Hydrogen fuel cell powertrain that generates electricity for the vehicle's electric motor.",
+    "technology_safety_features": "Advanced safety features with a focus on hydrogen safety and emissions reduction.",
+    "luxury_and_comfort_features": "Comfortable and technologically advanced interior with features like a touchscreen infotainment system and premium materials."
+  },
+  {
+    "img": "https://i.ibb.co/V3wbyzp/toyota-product-4.jpg",
+    "name": "Toyota Venza",
+    "brand_name": "Toyota",
+    "type": "car",
+    "rating": "4.5 star",
+    "price": "$28,000",
+
+    "description": "The Toyota Venza is a stylish and efficient crossover SUV known for its hybrid powertrain and comfortable interior.",
+    "design_and_styling_features": "Sleek and modern design with a focus on aerodynamics and hybrid efficiency.",
+    "engine_options_range": "Hybrid powertrain for excellent fuel efficiency and a smooth, quiet ride.",
+    "technology_safety_features": "Advanced safety features including adaptive cruise control, lane departure warning, and more.",
+    "luxury_and_comfort_features": "Spacious and well-appointed interior with features like a panoramic sunroof, premium audio systems, and more."
   }
 ]

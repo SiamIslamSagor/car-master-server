@@ -5,7 +5,13 @@
     "brand_name": "BMW",
     "type": "car",
     "rating": "4.7 star",
-    "price": " $86,800 (MSRP)"
+    "price": " $86,800 (MSRP)",
+
+    "description": "The BMW 7 Series is a luxury full-size sedan produced by the German automaker BMW. It is known for its combination of advanced technology, luxury, performance, and innovative features.",
+    "design_and_styling_features": "Sleek and elegant design with a prominent kidney grille, LED headlights, and a distinctive profile. Available in standard and long-wheelbase versions.",
+    "engine_options_range": "Various engine options, including inline-6, V8, and V12 engines. Plug-in hybrid variants for improved fuel efficiency.",
+    "technology_safety_features": "Advanced driver-assistance features like adaptive cruise control, lane-keeping assist, and automated parking.",
+    "luxury_and_comfort_features": "Includes features like rear-seat entertainment systems, rear-seat executive packages with enhanced rear-seat amenities, and adjustable rear seats for a first-class experience."
   },
   {
     "img": "https://i.ibb.co/n8XMWcT/bmw-m8-competition-coupe-2019-5k-p2.jpg",
@@ -13,7 +19,13 @@
     "brand_name": "BMW",
     "type": "car",
     "rating": "4.8 star",
-    "price": " $131,995 (MSRP)"
+    "price": " $131,995 (MSRP)",
+
+    "description": "The BMW i8 is a hybrid sports car that combines a futuristic design with sustainable technology. It's a plug-in hybrid with an electric motor and a turbocharged three-cylinder engine for impressive performance.",
+    "design_and_styling_features": "A striking and aerodynamic design with butterfly doors, LED headlights, and a futuristic interior. Available as a coupe and roadster.",
+    "engine_options_range": "Features a plug-in hybrid powertrain with an electric motor and a turbocharged three-cylinder engine. Capable of electric-only driving and impressive acceleration.",
+    "technology_safety_features": "Comes with advanced technology, including an iDrive infotainment system, driver assistance features, and eDrive mode for electric driving.",
+    "luxury_and_comfort_features": "Offers a sporty and upscale interior with leather seats, carbon fiber accents, and a driver-focused cockpit."
   },
   {
     "img": "https://i.ibb.co/XS6CvZt/bmw-x7-xdrive40i-2018-4k-HD-p3.jpg",
@@ -21,7 +33,13 @@
     "brand_name": "BMW",
     "type": "car",
     "rating": "4.8 star",
-    "price": "$74,900 (MSRP)"
+    "price": "$74,900 (MSRP)",
+
+    "description": "The BMW X7 is a luxury SUV that offers a combination of spaciousness, opulence, and advanced technology. It's designed for those seeking a large and luxurious vehicle for family or executive transportation.",
+    "design_and_styling_features": "Impressive and imposing design with a large double-kidney grille, distinctive headlights, and a spacious interior. Available in standard and M Performance versions.",
+    "engine_options_range": "Offers a range of powerful engines, including inline-6, V8, and a high-performance V8 in the M50i model. Optional air suspension for a smooth ride.",
+    "technology_safety_features": "Equipped with advanced technology, including a large infotainment system, driver assistance features, and available off-road capabilities.",
+    "luxury_and_comfort_features": "Spacious and luxurious interior with three rows of seating, premium materials, and various comfort and convenience features."
   },
   {
     "img": "https://i.ibb.co/ft2ZNYJ/bmw-m8-competition-coupe-2019-5k-p4.jpg",
@@ -29,6 +47,12 @@
     "brand_name": "BMW",
     "type": "car",
     "rating": "4.9 star",
-    "price": " $147,500 (MSRP)"
+    "price": " $147,500 (MSRP)",
+
+    "description": "The BMW i8 is a hybrid sports car that combines a futuristic design with sustainable technology. It's a plug-in hybrid with an electric motor and a turbocharged three-cylinder engine for impressive performance.",
+    "design_and_styling_features": "A striking and aerodynamic design with butterfly doors, LED headlights, and a futuristic interior. Available as a coupe and roadster.",
+    "engine_options_range": "Features a plug-in hybrid powertrain with an electric motor and a turbocharged three-cylinder engine. Capable of electric-only driving and impressive acceleration.",
+    "technology_safety_features": "Comes with advanced technology, including an iDrive infotainment system, driver assistance features, and eDrive mode for electric driving.",
+    "luxury_and_comfort_features": "Offers a sporty and upscale interior with leather seats, carbon fiber accents, and a driver-focused cockpit."
   }
 ]

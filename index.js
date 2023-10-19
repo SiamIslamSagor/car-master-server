@@ -28,7 +28,15 @@ async function run() {
     // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
 
+    /////////////////////////////////////
+    //           all collection        //
+    /////////////////////////////////////
+
     const brandsCollection = client.db("carMasterDB").collection("brands");
+
+    const cartItemCollection = client
+      .db("carMasterDB")
+      .collection("cart_items");
 
     const toyotaCollection = client
       .db("carMasterDB")
@@ -57,6 +65,10 @@ async function run() {
       const result = await cursor.toArray();
       res.send(result);
     });
+
+    /////////////////////////////////////
+    //           product api           //
+    /////////////////////////////////////
 
     //////////// for toyota
     app.get("/toyota_products", async (req, res) => {
@@ -154,11 +166,39 @@ async function run() {
       res.send(result);
     });
 
-    /*  app.post("/toyota_products", async (req, res) => {
+    /////////////////////////////////////
+    //           Cart api              //
+    /////////////////////////////////////
+
+    /* app.post("/cart_item", async (req, res) => {
       const data = req.body;
-      const result = await toyotaCollection.insertOne(data);
+      console.log(data);
+      const result = await cartItemCollection.insertOne(data);
       res.send(result);
     }); */
+
+    // to read a item in cart
+    app.get("/cart_items", async (req, res) => {
+      const cursor = cartItemCollection.find();
+      const result = await cursor.toArray();
+      res.send(result);
+    });
+
+    // to insert a item in cart
+    app.post("/cart_items", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await cartItemCollection.insertOne(data);
+      res.send(result);
+    });
+
+    // to delete a item in cart
+    app.delete("/cart_items/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await cartItemCollection.deleteOne(query);
+      res.send(result);
+    });
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });

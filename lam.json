@@ -1,46 +1,58 @@
 [
   {
-    "_id": "653021bf911c0bbf13452c31",
-    "slide_img_one": "https://i.ibb.co/TRfRC6h/toyota-product-1.jpg",
-    "slide_img_tow": "https://i.ibb.co/WybxRqc/toyota-product-2.jpg",
-    "slide_img_three": "https://i.ibb.co/3kQZXw2/toyota-product-3.jpg",
-    "advertisement_text_one": "Own a Lamborghini Today! Unleash the beast within. Your Lamborghini is not just a car; it's a statement of power, luxury, and exclusivity. Don't miss your chance to own the epitome of automotive excellence.",
-    "advertisement_text_tow": "Where Dreams Become Reality Your dream car is a phone call away. Experience the thrill of owning a Lamborghini - a symbol of prestige and unparalleled performance. Make your dream a reality today.",
-    "advertisement_text_three": "Discover the Art of Speed with Lamborghini Are you ready for the ride of a lifetime? Get behind the wheel of a Lamborghini and experience the rush of power, the elegance of design, and the envy of all. Your Lamborghini awaits you.",
-    "brands_description": "Toyota: Innovating Excellence",
-    "products": [
-      {
-        "img": "https://i.ibb.co/yyZdTDK/lamborghini-aventador-s-yellow-p1.jpg",
-        "name": "Lamborghini Aventador",
-        "brand_name": "Lamborghini",
-        "type": "car",
-        "rating": "4.5 star",
-        "price": "$393,695 (MSRP)"
-      },
-      {
-        "img": "https://i.ibb.co/L0bHS8K/black-lamborghini-huracan-p2.jpg",
-        "name": "Lamborghini Huracán",
-        "brand_name": "Lamborghini",
-        "type": "car",
-        "rating": "4.8 star",
-        "price": "$207,900 (MSRP)"
-      },
-      {
-        "img": "https://i.ibb.co/G71xW2P/lamborghini-uras-yellow-p3.jpg",
-        "name": "Lamborghini Urus",
-        "brand_name": "Lamborghini",
-        "type": "car",
-        "rating": "4.8 star",
-        "price": " $218,009 (MSRP)"
-      },
-      {
-        "img": "https://i.ibb.co/5RFY5P0/lamborghini-sian-4k-HD-p4.jpg",
-        "name": "Lamborghini Sian",
-        "brand_name": "Lamborghini",
-        "type": "car",
-        "rating": "4.7 star",
-        "price": "$299,000 (MSRP)"
-      }
-    ]
+    "img": "https://i.ibb.co/yyZdTDK/lamborghini-aventador-s-yellow-p1.jpg",
+    "name": "Lamborghini Aventador",
+    "brand_name": "Lamborghini",
+    "type": "car",
+    "rating": "4.5 star",
+    "price": "$393,695 (MSRP)",
+
+    "description": "The Lamborghini Aventador is a high-performance, mid-engine sports car known for its striking design and incredible power. It's a symbol of Italian automotive artistry and exhilarating performance.",
+    "design_and_styling_features": "Exotic and aggressive design with sharp angles, scissor doors, and a low, wide profile.",
+    "engine_options_range": "Powered by a naturally aspirated V12 engine with different variants producing varying levels of power.",
+    "technology_safety_features": "Limited emphasis on advanced safety features due to the car's focus on performance.",
+    "luxury_and_comfort_features": "Luxurious interior materials, comfortable seats, and high-quality infotainment systems."
+  },
+  {
+    "img": "https://i.ibb.co/L0bHS8K/black-lamborghini-huracan-p2.jpg",
+    "name": "Lamborghini Huracán",
+    "brand_name": "Lamborghini",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": "$207,900 (MSRP)",
+
+    "description": "The Lamborghini Huracán is a dynamic and powerful supercar that combines Italian craftsmanship with high-speed capabilities. It's designed for a thrilling driving experience.",
+    "design_and_styling_features": "Futuristic design with aerodynamic elements, sharp lines, and a bold presence.",
+    "engine_options_range": "Powered by a naturally aspirated V10 engine, providing impressive acceleration and handling.",
+    "technology_safety_features": "Limited emphasis on advanced safety features due to the car's performance-oriented nature.",
+    "luxury_and_comfort_features": "Well-appointed interior with comfortable seating, advanced infotainment, and driver-focused ergonomics."
+  },
+  {
+    "img": "https://i.ibb.co/G71xW2P/lamborghini-uras-yellow-p3.jpg",
+    "name": "Lamborghini Urus",
+    "brand_name": "Lamborghini",
+    "type": "car",
+    "rating": "4.8 star",
+    "price": " $218,009 (MSRP)",
+
+    "description": "The Lamborghini Urus is a luxury SUV that combines the brand's iconic design with practicality and performance. It's a versatile vehicle that can handle both daily driving and high-speed adventures.",
+    "design_and_styling_features": "SUV design with Lamborghini's distinctive design language, including sharp angles and bold lines.",
+    "engine_options_range": "Equipped with a powerful twin-turbocharged V8 engine, offering impressive acceleration and handling for an SUV.",
+    "technology_safety_features": "Advanced safety and driver-assistance features to ensure a safe and comfortable driving experience.",
+    "luxury_and_comfort_features": "Spacious and luxurious interior with premium materials, advanced technology, and ample comfort features."
+  },
+  {
+    "img": "https://i.ibb.co/5RFY5P0/lamborghini-sian-4k-HD-p4.jpg",
+    "name": "Lamborghini Sian",
+    "brand_name": "Lamborghini",
+    "type": "car",
+    "rating": "4.7 star",
+    "price": "$299,000 (MSRP)",
+
+    "description": "The Lamborghini Sian is a limited-edition hybrid supercar that represents the brand's commitment to innovation and performance. It features a unique hybrid powertrain and an exclusive design.",
+    "design_and_styling_features": "Exquisite design with aerodynamic elements, distinctive lighting, and a focus on visual appeal.",
+    "engine_options_range": "Combines a V12 engine with a mild hybrid system, providing high power and improved fuel efficiency.",
+    "technology_safety_features": "Equipped with advanced technology and safety features to enhance the driving experience.",
+    "luxury_and_comfort_features": "Luxurious interior with high-quality materials, advanced infotainment, and comfort features."
   }
 ]

@@ -5,7 +5,13 @@
     "brand_name": "Tesla",
     "type": "car",
     "rating": "4.8 star",
-    "price": " $79,990 (MSRP)"
+    "price": " $79,990 (MSRP)",
+
+    "description": "Tesla Model S is an all-electric luxury sedan known for its groundbreaking technology, impressive performance, and long electric range.",
+    "design_and_styling_features": "Features a sleek and aerodynamic design with a minimalist interior and a large touchscreen display.",
+    "engine_options_range": "Comes with various battery options, offering different ranges, from Long Range to Plaid.",
+    "technology_safety_features": "Equipped with advanced Autopilot and Full Self-Driving features, including adaptive cruise control and lane-keeping assist.",
+    "luxury_and_comfort_features": "Offers a spacious and luxurious interior with premium materials, a panoramic roof, and advanced infotainment."
   },
   {
     "img": "https://i.ibb.co/6rdPJsh/model-x-tesla-motors-HD-p2.jpg",
@@ -13,7 +19,13 @@
     "brand_name": "Tesla",
     "type": "car",
     "rating": "4.6 star",
-    "price": " $89,990 (MSRP)"
+    "price": " $89,990 (MSRP)",
+
+    "description": "Tesla Model X is a premium electric SUV known for its distinctive falcon-wing doors, versatile interior, and impressive performance.",
+    "design_and_styling_features": "Features a unique design with falcon-wing doors for easy access and a spacious and versatile interior.",
+    "engine_options_range": "Available in various battery options, offering different electric ranges and performance capabilities.",
+    "technology_safety_features": "Equipped with Tesla's advanced Autopilot system and safety features, including collision avoidance and emergency braking.",
+    "luxury_and_comfort_features": "Offers seating for up to seven passengers, a large panoramic windshield, and a high-tech infotainment system."
   },
   {
     "img": "https://i.ibb.co/PgkgncY/tesla-3-p3.jpg",
@@ -21,7 +33,13 @@
     "brand_name": "Tesla",
     "type": "car",
     "rating": "4.9 star",
-    "price": "$38,990 (MSRP)"
+    "price": "$38,990 (MSRP)",
+
+    "description": "Tesla Model 3 is a compact electric sedan known for its affordability, impressive range, and advanced technology.",
+    "design_and_styling_features": "Features a minimalist and modern design with a simplified interior and a touchscreen display.",
+    "engine_options_range": "Available in various battery options, offering different electric ranges and performance levels.",
+    "technology_safety_features": "Equipped with Autopilot features and Tesla's advanced driver-assistance technology.",
+    "luxury_and_comfort_features": "Offers a comfortable and tech-savvy interior with features like autopilot and over-the-air software updates."
   },
   {
     "img": "https://i.ibb.co/Fzffx6H/model-y-tesla-motors-HD-p4.jpg",
@@ -29,6 +47,12 @@
     "brand_name": "Tesla",
     "type": "car",
     "rating": "4.5 star",
-    "price": " $52,990 (MSRP)"
+    "price": " $52,990 (MSRP)",
+
+    "description": "Tesla Model Y is a compact electric SUV with a focus on versatility, space, and impressive electric range.",
+    "design_and_styling_features": "Features a design similar to the Model 3 but in a compact SUV form, with a spacious interior and rear hatch.",
+    "engine_options_range": "Available with different battery options, providing various electric ranges and performance capabilities.",
+    "technology_safety_features": "Equipped with advanced Autopilot features and safety technology, including collision warning and emergency braking.",
+    "luxury_and_comfort_features": "Offers a roomy and practical interior with a large touchscreen, comfortable seating, and generous cargo space."
   }
 ]
