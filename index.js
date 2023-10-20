@@ -26,7 +26,7 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     // Connect the client to the server	(optional starting in v4.7)
-    await client.connect();
+    // await client.connect();
 
     /////////////////////////////////////
     //           all collection        //
@@ -70,7 +70,7 @@ async function run() {
     //           product api           //
     /////////////////////////////////////
 
-    //////////// for toyota
+    ///////////////////  for toyota //////////////////////////
     app.get("/toyota_products", async (req, res) => {
       const cursor = toyotaCollection.find();
       const result = await cursor.toArray();
@@ -86,7 +86,41 @@ async function run() {
       res.send(result);
     });
 
-    ////////////for lamborghini
+    // to insert one data
+    app.post("/toyota_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await toyotaCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/toyota_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await toyotaCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
+    /////////////////// for lamborghini //////////////////////////
     app.get("/lamborghini_products", async (req, res) => {
       const cursor = lamborghiniCollection.find();
       const result = await cursor.toArray();
@@ -102,7 +136,41 @@ async function run() {
       res.send(result);
     });
 
-    ////////////for bmw
+    // to insert one data
+    app.post("/lamborghini_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await lamborghiniCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/lamborghini_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await lamborghiniCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
+    /////////////////// for bmw //////////////////////////
     app.get("/bmw_products", async (req, res) => {
       const cursor = bmwCollection.find();
       const result = await cursor.toArray();
@@ -118,7 +186,41 @@ async function run() {
       res.send(result);
     });
 
-    ////////////for mercedes
+    // to insert one data
+    app.post("/bmw_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await bmwCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/bmw_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await bmwCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
+    /////////////////// for mercedes //////////////////////////
     app.get("/mercedes_products", async (req, res) => {
       const cursor = mercedesCollection.find();
       const result = await cursor.toArray();
@@ -134,7 +236,41 @@ async function run() {
       res.send(result);
     });
 
-    ////////////for tesla
+    // to insert one data
+    app.post("/mercedes_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await mercedesCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/mercedes_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await mercedesCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
+    /////////////////// for tesla //////////////////////////
     app.get("/tesla_products", async (req, res) => {
       const cursor = teslaCollection.find();
       const result = await cursor.toArray();
@@ -150,7 +286,41 @@ async function run() {
       res.send(result);
     });
 
-    ////////////for honda
+    // to insert one data
+    app.post("/tesla_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await teslaCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/tesla_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await teslaCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
+    /////////////////// for honda //////////////////////////
     app.get("/honda_products", async (req, res) => {
       const cursor = hondaCollection.find();
       const result = await cursor.toArray();
@@ -166,16 +336,43 @@ async function run() {
       res.send(result);
     });
 
+    // to insert one data
+    app.post("/honda_products", async (req, res) => {
+      const data = req.body;
+      console.log(data);
+      const result = await hondaCollection.insertOne(data);
+      res.send(result);
+    });
+
+    //  to update one data
+    app.put("/honda_products/:id", async (req, res) => {
+      const id = req.params.id;
+      const updatedProduct = req.body;
+      const filter = { _id: new ObjectId(id) };
+      const options = { upsert: true };
+      const newUpdatedProduct = {
+        $set: {
+          img: updatedProduct.img,
+          name: updatedProduct.name,
+          brand_name: updatedProduct.brand_name,
+          type: updatedProduct.type,
+          rating: updatedProduct.rating,
+          price: updatedProduct.price,
+          shortDescription: updatedProduct.shortDescription,
+          product_brand: updatedProduct.product_brand,
+        },
+      };
+      const result = await hondaCollection.updateOne(
+        filter,
+        newUpdatedProduct,
+        options
+      );
+      res.send(result);
+    });
+
     /////////////////////////////////////
     //           Cart api              //
     /////////////////////////////////////
-
-    /* app.post("/cart_item", async (req, res) => {
-      const data = req.body;
-      console.log(data);
-      const result = await cartItemCollection.insertOne(data);
-      res.send(result);
-    }); */
 
     // to read a item in cart
     app.get("/cart_items", async (req, res) => {
@@ -201,7 +398,7 @@ async function run() {
     });
 
     // Send a ping to confirm a successful connection
-    await client.db("admin").command({ ping: 1 });
+    // await client.db("admin").command({ ping: 1 });
     console.log(
       "Pinged your deployment. You successfully connected to MongoDB!"
     );
